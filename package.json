@@ -10,7 +10,8 @@
     "webpack-cli": "^3.1.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx webpack app/main.js -o public/bundle.js"
   },
   "author": "",
   "license": "ISC"
