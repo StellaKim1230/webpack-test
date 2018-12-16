@@ -1,3 +1,3 @@
-# webpack에 대해 알아보기.
-## webpack setting
-## commonjs esm 차이점
+# webpack 공부
+1. webpack setting
+2. commonjs vs esm
